@@ -14,4 +14,5 @@ Comme base, nous avons utilisé le repo Github de Adeept : https://github.com/ad
 
 ## 👨‍💻 Auteur : 
 
-Projet réalisé par wFlxzy (https://github.com/wFlxzy) et 404-Fr4nc1s.
+- wFlxzy : https://github.com/wFlxzy
+- 404-Fr4nc1s : https://github.com/404-Fr4nc1s
