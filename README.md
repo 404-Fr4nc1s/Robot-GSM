@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Ce projet consiste à modifier et améliorer un robot **Adeept PiCar Pro** afin de le rendre contrôlable à distance via un réseau GSM / interface web locale.
+Ce projet consiste à modifier et améliorer un robot **Adeept PiCar Pro** afin de le rendre contrôlable à distance via un interface web locale.
 Comme base, nous avons utilisé le repo Github de Adeept : https://github.com/adeept/Adeept_PiCar-Pro
 
 ---
