@@ -15,4 +15,4 @@ Comme base, nous avons utilisé le repo Github de Adeept : https://github.com/ad
 ## 👨‍💻 Auteur : 
 
 - wFlxzy : https://github.com/wFlxzy
-- 404-Fr4nc1s : https://github.com/404-Fr4nc1s
+- 404-Fr4nc1s : https://github.com/404-Fr4nc1s 
