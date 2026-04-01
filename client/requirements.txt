@@ -1,0 +1,4 @@
+pygame>=2.5.0
+requests>=2.32.0
+pillow>=10.3.0
+pyserial>=3.5

@@ -1,0 +1,15 @@
+pygame>=2.5.0
+flask>=3.0.0
+flask-cors>=4.0.0
+opencv-python>=4.8.0
+psutil>=5.9.6
+rpi-ws281x>=5.0.0
+numpy>=1.26.0
+pillow>=10.3.0
+PySide6>=6.0.0
+gpiozero
+adafruit-circuitpython-pca9685
+adafruit-circuitpython-motor
+Adafruit-Blinka
+websockets
+luma.oled
